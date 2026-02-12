@@ -1,11 +1,11 @@
 
 
-```markdown
+
 # React Native Interview Responses
 
 This document contains technical responses regarding React Native performance and architecture, written with a focus on senior-level engineering concepts.
 
----
+
 
 ## Performance: How do you prevent unnecessary re-renders in a large FlatList?
 
